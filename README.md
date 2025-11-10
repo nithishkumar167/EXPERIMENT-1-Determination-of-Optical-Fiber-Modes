@@ -69,22 +69,11 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ## 📊 OBSERVATION AND CALCULATION
 
-- Given parameters:  
-  \( A = 4.5 \mu m \) (core radius)  
-  \( NA = 0.11 \)  
-  \( \lambda = 633 nm \)
-
-- **V-number calculation**:  
-  \[
-  V = \frac{2 \pi A \cdot NA}{\lambda} = \frac{2 \pi \cdot 4.5 \cdot 0.11}{0.633} \approx 4.91
-  \]
-
-- **Total number of modes**:  
-  \[
-  M = \frac{V^2}{2} = \frac{4.91^2}{2} \approx 12.05
-  \]
-
-- From the figure: Only 4 LP modes are observed.
+- 
+Parameter of given fiber are,
+A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
+From fig. shows only 4 LP modes propagates.
+Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
