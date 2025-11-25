@@ -47,18 +47,10 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 10.	For single mode patch cord, the blur pattern of the various single mode patterns will appear on the screen. That is, single circular two lobes, three lobes and four lobes patterns can be very well observed by slightly adjusting the Allen screws of the laser-fiber coupler.
 
 
----
-
-
-## 📊 OBSERVATION AND CALCULATION
-
-- 
-Parameter of given fiber are,
-A = 4.5μm (core radius), N.A = 0.11, λ = 633nm
-V = 2 π x A x N.A / λ = 4.91
-From fig. shows only 4 LP modes propagates.
-Total number of modes = V^2 / 2 = 4.91^2 / 2
-
----
 ## Tabulation
+
+<img width="580" height="715" alt="image" src="https://github.com/user-attachments/assets/768bdac0-bf1c-4bdc-86fd-4adfde706fb2" />
+
 ## Result
+
+Thus mode characteristics of fiber optical studied and lower LP modules (LP11,LP21) were observed confirms.The existence of distinct guided modes in this fiber.
